@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C355BC01-52FF-496D-9841-C3D496C8E12F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
+    <Files>
+      <File FileName="WineOutlet_1/WineOutlet_1Page.xaml" Line="4" Column="43" />
+      <File FileName="WineOutlet_1/WineOutlet_1Page.xaml.cs" Line="2" Column="14" />
+      <File FileName="WineOutlet_1/App.xaml" Line="1" Column="1" />
+      <File FileName="WineOutlet_1/App.xaml.cs" Line="13" Column="3" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WineOutlet__1.Droid PreferredExecutionTarget="Android.330090529874c209" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WineOutlet__1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.571191DB-9BB8-49ED-95A0-652E823BFC21" />
+</Properties>

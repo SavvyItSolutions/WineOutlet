@@ -1,0 +1,12 @@
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/obj/Debug/WineOutlet_1.App.xaml
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/obj/Debug/WineOutlet_1.WineOutlet_1Page.xaml
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/obj/Debug/WineOutlet_1.App.xaml.g.cs
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/obj/Debug/WineOutlet_1.WineOutlet_1Page.xaml.g.cs
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/bin/Debug/WineOutlet_1.dll.mdb
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/bin/Debug/WineOutlet_1.dll
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/obj/Debug/WineOutlet_1.dll
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/obj/Debug/WineOutlet_1.dll.mdb
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/bin/Debug/Xamarin.Forms.Core.dll
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/ankurdubey/Projects/WineOutlet_1/WineOutlet_1/bin/Debug/Xamarin.Forms.Xaml.dll
