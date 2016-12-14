@@ -9,6 +9,7 @@
             <StackLayout Orientation="Horizontal" Padding="10,10">
                 <Button Text="Back" HorizontalOptions="StartAndExpand" Clicked="backClicked" />
                 <Button Text="Forward" HorizontalOptions="End" Clicked="forwardClicked" />
+                
             </StackLayout>
             <WebView x:Name="Browser" WidthRequest="1000" HeightRequest="1000" />
         </StackLayout>
