@@ -1,0 +1,16 @@
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-ipad4.4-9.3.4/optimized/
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/bin/iPhone/Debug/wineoutlet.iOS.exe.mdb
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/bin/iPhone/Debug/wineoutlet.iOS.exe
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/wineoutlet.iOS.exe
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/wineoutlet.iOS.exe.mdb
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/bin/iPhone/Debug/wineoutlet.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/bin/iPhone/Debug/wineoutlet.dll.mdb
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/optimized/

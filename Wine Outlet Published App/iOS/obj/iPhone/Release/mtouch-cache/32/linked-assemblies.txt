@@ -1,0 +1,15 @@
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.ServiceModel.Internals.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Platform.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/wineoutlet.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Xaml.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Xml.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Core.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/wineoutlet.iOS.exe
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll

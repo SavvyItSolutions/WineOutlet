@@ -1,0 +1,15 @@
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/System.ServiceModel.Internals.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/Xamarin.Forms.Platform.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/wineoutlet.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/Xamarin.Forms.Xaml.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/System.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/System.Xml.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/System.Core.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/wineoutlet.iOS.exe
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/mscorlib.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/System.Net.Http.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/iOS/obj/iPhone/Debug/build-iphone5.1-10.2.1/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll

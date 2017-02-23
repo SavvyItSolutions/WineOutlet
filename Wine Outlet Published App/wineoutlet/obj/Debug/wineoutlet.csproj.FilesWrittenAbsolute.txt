@@ -1,0 +1,12 @@
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/obj/Debug/wineoutlet.App.xaml
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/obj/Debug/wineoutlet.wineoutletPage.xaml
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/obj/Debug/wineoutlet.App.xaml.g.cs
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/obj/Debug/wineoutlet.wineoutletPage.xaml.g.cs
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/bin/Debug/wineoutlet.dll.mdb
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/bin/Debug/wineoutlet.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/obj/Debug/wineoutlet.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/obj/Debug/wineoutlet.dll.mdb
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/bin/Debug/Xamarin.Forms.Core.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/ankurdubey/Desktop/WO/wineoutlet/wineoutlet/bin/Debug/Xamarin.Forms.Xaml.dll
