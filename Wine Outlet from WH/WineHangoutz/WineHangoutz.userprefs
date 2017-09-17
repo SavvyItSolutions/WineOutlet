@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{19967747-2AC6-49DA-8AE0-0DB0454C4F52}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WineHangoutz/AppDelegate.cs">
+    <Files>
+      <File FileName="WineHangoutz/LoginViewController.cs" Line="259" Column="28" />
+      <File FileName="WineHangoutz/AppDelegate.cs" Line="44" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/MyFavController.cs" relfile="WineHangoutz/MyFavController.cs" line="192" column="1" />
+      <Breakpoint file="/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/MyFavController.cs" relfile="WineHangoutz/MyFavController.cs" line="20" column="1" />
+      <Breakpoint file="/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/MyFavController.cs" relfile="WineHangoutz/MyFavController.cs" line="26" column="1" />
+      <Breakpoint file="/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/MyFavController.cs" relfile="WineHangoutz/MyFavController.cs" line="105" column="1" />
+      <Breakpoint file="/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/MyFavController.cs" relfile="WineHangoutz/MyFavController.cs" line="82" column="1" />
+      <Breakpoint file="/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/MyFavController.cs" relfile="WineHangoutz/MyFavController.cs" line="173" column="1" />
+      <Breakpoint file="/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/MyFavController.cs" relfile="WineHangoutz/MyFavController.cs" line="189" column="1" />
+      <Breakpoint file="/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/proview.cs" relfile="WineHangoutz/proview.cs" line="438" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WineHangoutz PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B6972546-F518-4E2D-9C81-C5AAB8462B29" />
+  <MultiItemStartupConfigurations />
+</Properties>

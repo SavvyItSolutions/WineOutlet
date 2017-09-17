@@ -1,0 +1,27 @@
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=CloseZStream
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=Flush
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=ReadZStream
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=WriteZStream
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=xamarin_timezone_get_data
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=mono_pmip

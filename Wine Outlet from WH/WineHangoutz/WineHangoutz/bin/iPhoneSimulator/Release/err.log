@@ -1,0 +1,13 @@
+objc[700]: Class VCWeakObjectHolder is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/ViceroyTrace.framework/ViceroyTrace (0x13b052e8) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/AVConference.framework/AVConference (0x13a4554c). One of the two will be used. Which one is undefined.
+objc[700]: Class PLBuildVersion is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/AssetsLibraryServices.framework/AssetsLibraryServices (0x161d1618) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/PhotoLibraryServices (0x15bd2764). One of the two will be used. Which one is undefined.
+2017-09-17 10:43:45.480 WineHangoutz[700:9155] User id DefaultLogs 
+User id DefaultLogs 
+2017-09-17 10:43:45.480 WineHangoutz[700:9153] User id DefaultLogs 
+User id DefaultLogs 
+2017-09-17 10:43:45.481 WineHangoutz[700:9155] service,9/17/2017 10:43:45 AM,Service 2.4647882,Authencate Card and sending mail,Ios
+
+2017-09-17 10:43:45.481 WineHangoutz[700:9153] service,9/17/2017 10:43:45 AM,GetItemList service Time Elapsed2.7523526,ItemList,Ios
+
+2017-09-17 10:43:54.673 WineHangoutz[700:9153] User id DefaultLogs 
+2017-09-17 10:43:54.673 WineHangoutz[700:9153] service,9/17/2017 10:43:54 AM,GetItemList service Time Elapsed3.9483608,ItemList,Ios
+

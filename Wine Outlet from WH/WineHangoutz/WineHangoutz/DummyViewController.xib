@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DummyViewController">
+            <connections>
+                <outlet property="view" destination="2" id="RRd-Eg-VrN"/>
+                <outlet property="scrl" destination="5" id="name-outlet-5"/>
+                <outlet property="txt" destination="6" id="name-outlet-6"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="2">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="5" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" customClass="UIScrollView" keyboardDismissMode="interactive" showsHorizontalScrollIndicator="NO">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="562"/>
+                    <subviews>
+                        <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Text" borderStyle="roundedRect" minimumFontSize="17" id="6" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                            <rect key="frame" x="92" y="389" width="432" height="30"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" enablesReturnKeyAutomatically="YES"/>
+                            <accessibility key="accessibilityConfiguration">
+                                <accessibilityTraits key="traits" notEnabled="YES"/>
+                            </accessibility>
+                        </textField>
+                    </subviews>
+                </scrollView>
+            </subviews>
+        </view>
+    </objects>
+    <resources>
+        <image name="placeholder.jpeg" width="920" height="920"/>
+        <image name="Star4.png" width="502" height="93"/>
+        <image name="heart_empty.png" width="72" height="65"/>
+        <image name="heart_full.png" width="69" height="60"/>
+        <image name="separator.png" width="1312" height="5"/>
+        <image name="Stars/chosen.png" width="200" height="190"/>
+        <image name="Stars/empty.png" width="200" height="190"/>
+        <image name="Stars/filled.png" width="200" height="190"/>
+        <image name="user.png" width="193" height="192"/>
+        <image name="Close.png" width="56" height="56"/>
+        <image name="wine_review.png" width="320" height="320"/>
+        <image name="shop.png" width="512" height="512"/>
+        <image name="taste.png" width="512" height="512"/>
+        <image name="explore.png" width="512" height="512"/>
+        <image name="Wines/wine2.png" width="92" height="240"/>
+        <image name="Wines/wine1.png" width="92" height="240"/>
+        <image name="Wines/wine0.png" width="92" height="240"/>
+        <image name="Wines/wine3.png" width="92" height="240"/>
+        <image name="Wines/wine4.png" width="92" height="240"/>
+        <image name="Wines/wine5.png" width="92" height="240"/>
+        <image name="Wines/wine6.png" width="92" height="240"/>
+        <image name="Wines/wine7.png" width="92" height="240"/>
+        <image name="delete.png" width="80" height="80"/>
+        <image name="edit.png" width="80" height="80"/>
+        <image name="Images/Blog.jpg" width="1440" height="1200"/>
+        <image name="Images/Man.png" width="1080" height="639"/>
+        <image name="Images/My.png" width="1440" height="720"/>
+        <image name="Images/New.jpg" width="1440" height="480"/>
+        <image name="Images/NotUsedYet.jpg" width="1440" height="480"/>
+        <image name="Images/PP.jpg" width="1440" height="1200"/>
+        <image name="Images/Region.jpg" width="1440" height="1200"/>
+        <image name="Images/Sec.jpg" width="1440" height="1200"/>
+        <image name="Images/Top.jpg" width="1440" height="480"/>
+        <image name="Images/Wineries.jpg" width="1440" height="1200"/>
+        <image name="profile.png" width="66" height="72"/>
+        <image name="Line.png" width="300" height="20"/>
+        <image name="Stars/star_empty.png" width="200" height="200"/>
+        <image name="Stars/star.png" width="200" height="200"/>
+        <image name="Stars/star2_empty.png" width="200" height="200"/>
+        <image name="Stars/star2.png" width="200" height="200"/>
+        <image name="Stars/star-silver.png" width="200" height="200"/>
+        <image name="Stars/star-silver1.png" width="200" height="200"/>
+        <image name="Stars/star-silver2.png" width="200" height="200"/>
+        <image name="eno.jpg" width="700" height="418"/>
+        <image name="whLogo.jpg" width="2100" height="2100"/>
+        <image name="Images/beach.jpg" width="720" height="240"/>
+        <image name="Images/city.jpg" width="720" height="240"/>
+        <image name="Images/city1.jpg" width="720" height="240"/>
+        <image name="Images/myfavorate.jpg" width="720" height="240"/>
+        <image name="Images/myprofile.jpg" width="720" height="240"/>
+        <image name="Images/winereviews.jpg" width="720" height="240"/>
+        <image name="Images/winetasting.jpg" width="720" height="240"/>
+        <image name="ic_action_map.png" width="48" height="48"/>
+        <image name="ic_action_place.png" width="48" height="48"/>
+        <image name="mail.png" width="128" height="128"/>
+        <image name="city.png" width="160" height="160"/>
+        <image name="state.png" width="230" height="220"/>
+        <image name="phone.png" width="225" height="225"/>
+        <image name="Info.png" width="256" height="256"/>
+        <image name="add.png" width="200" height="200"/>
+        <image name="City1.png" width="512" height="512"/>
+        <image name="phone1.png" width="256" height="256"/>
+        <image name="line1.png" width="1800" height="72"/>
+        <image name="line123.png" width="1800" height="72"/>
+        <image name="logo5.png" width="1000" height="1000"/>
+        <image name="logo5.jpg" width="1000" height="1000"/>
+        <image name="user1.png" width="500" height="466"/>
+        <image name="Wines/bottle.jpg" width="750" height="750"/>
+        <image name="Images/loadin.png" width="512" height="512"/>
+        <image name="Images/gl.png" width="250" height="150"/>
+        <image name="card.png" width="512" height="512"/>
+        <image name="card-icon.png" width="966" height="834"/>
+        <image name="FavIns.png" width="202" height="381"/>
+        <image name="ReviewIns.png" width="708" height="543"/>
+    </resources>
+</document>
