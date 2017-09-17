@@ -44,7 +44,7 @@ namespace WineHangoutz
 				//CurrentUser.Clear();
 				//CurrentUser.Store("49140", "user Simulator");
 				//for direct log in
-				//CurrentUser.PutCardNumber("900497312429");
+				CurrentUser.PutCardNumber("900497312429");
 				//Console.WriteLine(DateTime.Now + " App opened");
 				UIImage profile = UIImage.FromFile("profile.png");
 				profile = ResizeImage(profile, 25, 25);

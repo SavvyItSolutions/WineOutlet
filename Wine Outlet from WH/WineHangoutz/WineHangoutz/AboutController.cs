@@ -163,7 +163,7 @@ namespace WineHangoutz
 				var ver = NSBundle.MainBundle.InfoDictionary["CFBundleVersion"];
 				//MonoTouch.Constants.Version;
 				//Console.WriteLine(ver);
-				VersionText.Text = "Version 1.17("+ver+").\nAll rights reserved.\n Reach us at";
+				VersionText.Text = "Version 1.1("+ver+").\nAll rights reserved.\n Reach us at";
 				VersionText.TextColor = UIColor.Black;
 				VersionText.Font = UIFont.FromName("Verdana", 18f);
 				VersionText.Editable = false;

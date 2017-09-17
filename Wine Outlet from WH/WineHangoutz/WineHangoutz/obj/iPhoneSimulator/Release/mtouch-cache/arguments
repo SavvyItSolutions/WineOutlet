@@ -1,9 +1,9 @@
 # Version: 10.12.0.20 (d15-3: 80b8487d)
 # [first argument, ignore] # --cache
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mtouch/mtouch.exe \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhoneSimulator/Release/mtouch-cache \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/obj/iPhoneSimulator/Release/mtouch-cache" \
 	--sim \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/bin/iPhoneSimulator/Release/WineHangoutz.app \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/bin/iPhoneSimulator/Release/WineHangoutz.app" \
 	--executable \
 	WineHangoutz \
 	--nolink \
@@ -17,7 +17,7 @@
 	--http-message-handler=HttpClientHandler \
 	--abi=i386 \
 	--symbollist \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/obj/iPhoneSimulator/Release/mtouch-symbols.list \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/obj/iPhoneSimulator/Release/mtouch-symbols.list" \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -28,7 +28,7 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/PDRating.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/PDRating.dll" \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Net.Http.dll \
 	-r \
@@ -36,31 +36,31 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Runtime.Serialization.dll \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/Newtonsoft.Json.9.0.1/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/Newtonsoft.Json.9.0.1/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll" \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.IO.Compression.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.Linq.dll \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/Microsoft.Data.Edm.5.8.2/lib/netstandard1.1/Microsoft.Data.Edm.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/Microsoft.Data.Edm.5.8.2/lib/netstandard1.1/Microsoft.Data.Edm.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/System.Spatial.5.8.2/lib/netstandard1.1/System.Spatial.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/System.Spatial.5.8.2/lib/netstandard1.1/System.Spatial.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/Microsoft.Data.OData.5.8.2/lib/netstandard1.1/Microsoft.Data.OData.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/Microsoft.Data.OData.5.8.2/lib/netstandard1.1/Microsoft.Data.OData.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/WindowsAzure.Storage.8.1.1/lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/WindowsAzure.Storage.8.1.1/lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/Xamarin.Azure.NotificationHubs.iOS.1.2.5.2/lib/Xamarin.iOS10/Xamarin.Azure.NotificationHubs.iOS.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/Xamarin.Azure.NotificationHubs.iOS.1.2.5.2/lib/Xamarin.iOS10/Xamarin.Azure.NotificationHubs.iOS.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/Components/xamarin.auth-1.2.3.1/lib/ios-unified/Xamarin.Auth.iOS.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/Components/xamarin.auth-1.2.3.1/lib/ios-unified/Xamarin.Auth.iOS.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/ZXing.Net.Mobile.Core.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/ZXing.Net.Mobile.Core.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/zxing.portable.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/zxing.portable.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/ZXingNetMobile.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/ZXingNetMobile.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/Components/btprogresshud-1.20/lib/ios-unified/BTProgressHUD.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/Components/btprogresshud-1.20/lib/ios-unified/BTProgressHUD.dll" \
 	-r \
 	/Users/ankurdubey/Projects/Services/Hangout/bin/Hangouts.Models.dll \
 	-r \
@@ -340,29 +340,29 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/netstandard.dll \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/PDRating.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/PDRating.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/Microsoft.Data.Edm.5.8.2/lib/netstandard1.1/Microsoft.Data.Edm.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/Microsoft.Data.Edm.5.8.2/lib/netstandard1.1/Microsoft.Data.Edm.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/System.Spatial.5.8.2/lib/netstandard1.1/System.Spatial.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/System.Spatial.5.8.2/lib/netstandard1.1/System.Spatial.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/Microsoft.Data.OData.5.8.2/lib/netstandard1.1/Microsoft.Data.OData.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/Microsoft.Data.OData.5.8.2/lib/netstandard1.1/Microsoft.Data.OData.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/WindowsAzure.Storage.8.1.1/lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/WindowsAzure.Storage.8.1.1/lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/Xamarin.Azure.NotificationHubs.iOS.1.2.5.2/lib/Xamarin.iOS10/Xamarin.Azure.NotificationHubs.iOS.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/Xamarin.Azure.NotificationHubs.iOS.1.2.5.2/lib/Xamarin.iOS10/Xamarin.Azure.NotificationHubs.iOS.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/Components/xamarin.auth-1.2.3.1/lib/ios-unified/Xamarin.Auth.iOS.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/Components/xamarin.auth-1.2.3.1/lib/ios-unified/Xamarin.Auth.iOS.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/ZXing.Net.Mobile.Core.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/ZXing.Net.Mobile.Core.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/zxing.portable.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/zxing.portable.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/ZXingNetMobile.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/packages/ZXing.Net.Mobile.2.1.12/lib/Xamarin.iOS10/ZXingNetMobile.dll" \
 	-r \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/Components/btprogresshud-1.20/lib/ios-unified/BTProgressHUD.dll \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/Components/btprogresshud-1.20/lib/ios-unified/BTProgressHUD.dll" \
 	-r \
 	/Users/ankurdubey/Projects/Services/Hangout/bin/Hangouts.Models.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/ankurdubey/Projects/WineHangoutz/iOS/WineHangoutz/WineHangoutz/bin/iPhoneSimulator/Release/WineHangoutz.exe \
+	"/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/bin/iPhoneSimulator/Release/WineHangoutz.exe" \
