@@ -287,7 +287,6 @@
     <BundleResource Include="Resources\delete.png" />
     <BundleResource Include="Resources\edit.png" />
     <BundleResource Include="Images\Blog.jpg" />
-    <BundleResource Include="Images\Man.png" />
     <BundleResource Include="Images\My.png" />
     <BundleResource Include="Images\New.jpg" />
     <BundleResource Include="Images\NotUsedYet.jpg" />
@@ -306,11 +305,8 @@
     <BundleResource Include="Stars\star-silver1.png" />
     <BundleResource Include="Stars\star-silver2.png" />
     <BundleResource Include="Resources\eno.jpg" />
-    <BundleResource Include="Resources\whLogo.jpg" />
-    <BundleResource Include="Images\beach.jpg" />
     <BundleResource Include="Images\city.jpg" />
     <BundleResource Include="Images\city1.jpg" />
-    <BundleResource Include="Images\myfavorate.jpg" />
     <BundleResource Include="Images\myprofile.jpg" />
     <BundleResource Include="Images\winereviews.jpg" />
     <BundleResource Include="Images\winetasting.jpg" />
@@ -330,8 +326,6 @@
     <BundleResource Include="Resources\user1.png" />
     <BundleResource Include="Wines\bottle.jpg" />
     <BundleResource Include="Images\loadin.png" />
-    <BundleResource Include="Images\gl.png" />
-    <BundleResource Include="Resources\card.png" />
     <BundleResource Include="Resources\card-icon.png" />
     <BundleResource Include="Resources\FavIns.png" />
     <BundleResource Include="Resources\ReviewIns.png" />
@@ -348,8 +342,9 @@
     <BundleResource Include="Images\pp1.jpg" />
     <BundleResource Include="Images\scacus1.jpg" />
     <BundleResource Include="Images\wall1.jpg" />
-    <BundleResource Include="Resources\buynow.png" />
     <BundleResource Include="Resources\buy.png" />
+    <BundleResource Include="Images\lg.png" />
+    <BundleResource Include="Resources\testimage.jpg" />
   </ItemGroup>
   <ItemGroup>
     <XamarinComponentReference Include="xamarin.auth">

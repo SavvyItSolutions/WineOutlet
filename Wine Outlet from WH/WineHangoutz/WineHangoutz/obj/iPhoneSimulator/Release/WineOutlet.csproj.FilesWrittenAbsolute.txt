@@ -77,3 +77,4 @@
 /Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/bin/iPhoneSimulator/Release/Hangouts.Models.dll
 /Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
 /Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/ankurdubey/Projects/WineOutlet/Wine Outlet from WH/WineHangoutz/WineHangoutz/obj/iPhoneSimulator/Release/optimized/Images/lg.png

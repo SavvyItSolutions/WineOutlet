@@ -163,7 +163,7 @@ namespace WineHangoutz
 				var ver = NSBundle.MainBundle.InfoDictionary["CFBundleVersion"];
 				//MonoTouch.Constants.Version;
 				//Console.WriteLine(ver);
-				VersionText.Text = "Version 1.1("+ver+").\nAll rights reserved.\n Reach us at";
+				VersionText.Text = "Version 1.1("+ver+").\nAll rights reserved.";
 				VersionText.TextColor = UIColor.Black;
 				VersionText.Font = UIFont.FromName("Verdana", 18f);
 				VersionText.Editable = false;
@@ -174,7 +174,7 @@ namespace WineHangoutz
 				y = y + sTemp.Height;
 				UITextView ContactUsText = new UITextView();
 				ContactUsText.Frame = new CGRect(5, y-50, UIScreen.MainScreen.Bounds.Width - 20, UIScreen.MainScreen.Bounds.Height);
-				ContactUsText.Text = "savvyitsol@gmail.com";
+				ContactUsText.Text = "Click here to contact us";
 				ContactUsText.TextColor = UIColor.Purple;
 				ContactUsText.Font = UIFont.FromName("Verdana", 18f);
 				ContactUsText.Editable = false;

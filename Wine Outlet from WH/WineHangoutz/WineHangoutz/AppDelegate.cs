@@ -44,7 +44,7 @@ namespace WineHangoutz
 				//CurrentUser.Clear();
 				//CurrentUser.Store("49140", "user Simulator");
 				//for direct log in
-				CurrentUser.PutCardNumber("900497312429");
+				//CurrentUser.PutCardNumber("900497312429");
 				//Console.WriteLine(DateTime.Now + " App opened");
 				UIImage profile = UIImage.FromFile("profile.png");
 				profile = ResizeImage(profile, 25, 25);
@@ -268,7 +268,7 @@ namespace WineHangoutz
 			explore = ResizeImage(explore, 35, 35);
 			t2.Image = explore;
 			t2.SelectedImage = explore;
-			t2.Enabled = false;
+			t2.Enabled = true;
 			//RootTab[2].RemoveFromParentViewController();
 
 

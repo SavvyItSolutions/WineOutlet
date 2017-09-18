@@ -73,7 +73,7 @@ namespace WineHangoutz
 				nfloat imagewidth = UIScreen.MainScreen.Bounds.Width;
 				var imgLogo = new UIImageView();
 				imgLogo.Frame = new CGRect(((imagewidth/2)-(imageheight/2)), starty, imageheight, imageheight);
-				imgLogo.Image = UIImage.FromFile("logo5.png");
+				imgLogo.Image = UIImage.FromFile("Images/lg.png");
 				y = starty + imageheight;
 				lblIns = new UILabel();
 				lblIns.Text = "Please scan your VIP card barcode by touching below card:";
